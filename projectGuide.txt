@@ -1,0 +1,21 @@
+Json Object for first time app startup
+Tabs: Events?, Calendar, Podcasts, Current signup
+Events:
+Calendar:
+Sync with Google
+Podcats
+
+Current Signup:
+
+
+
+
+
+
+
+
+
+
+Thoughts/Suggestions 
+Weekly setlist
+Archived with podcast information?
